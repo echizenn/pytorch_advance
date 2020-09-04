@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 # for pytorch advance
-data/hymenoptera_data/
-data/imagenet_class_index.json
+chap1/data/hymenoptera_data/
+chap1/data/imagenet_class_index.json
 *.pyc
 *.pth
