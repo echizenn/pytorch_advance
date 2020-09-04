@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# for pytorch advance
+data/hymenoptera_data/
+data/imagenet_class_index.json
+*.pyc
+*.pth
