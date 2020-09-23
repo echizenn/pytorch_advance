@@ -130,5 +130,8 @@ dmypy.json
 
 # for pytorch advance
 chap1/data/
+chap2/data/
+chap2/weights/
+*/data/
 *.pyc
 *.pth
